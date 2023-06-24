@@ -1,0 +1,4 @@
+mongodb+srv://Azefack:<password>@cluster0.dzbewit.mongodb.net/?retryWrites=true&w=majority
+username Azefack
+
+password:gHFW9kZYGeyQNkbq
